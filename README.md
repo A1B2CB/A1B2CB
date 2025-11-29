@@ -1,6 +1,6 @@
 <h1 align="center">Lizetta Profile Card</h1>
   
-<img src="https://cardivo.vercel.app/api?name=lizetta&description=Hi,%20Welcome%20To%20My%20Profile%20❤&backgroundColor=%23FFFFFF&fontColor=%23019393&github=andhikagg&image=https://res.cloudinary.com/dqn12kvbd/image/fetch/https://raw.githubusercontent.com/A1B2CB/dat4/main/uploads/6af5e6-1764414120208.jpg" align="center">
+<img src="https://cardivo.vercel.app/api?name=lizetta&description=Hi,%20Welcome%20To%20My%20Profile%20❤&backgroundColor=%23FFFFFF&fontColor=%23019393&github=lizetta&image=https://res.cloudinary.com/dqn12kvbd/image/fetch/https://raw.githubusercontent.com/A1B2CB/dat4/main/uploads/6af5e6-1764414120208.jpg" align="center">
 
 <p align="center">
   <a href="https://github.com/A1B2CB"><img src="http://readme-typing-svg.herokuapp.com?font=Kanit&color=30A7F7FF&size=30&center=true&vCenter=true&width=500&height=51&multiline=false&lines=Just+Normal+People+From+Japan.;Im+19+Years+old.;.+.+." alt="Nevt">

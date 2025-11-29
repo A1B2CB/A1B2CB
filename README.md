@@ -22,14 +22,14 @@
   <a href="https://github.com/A1B2CB"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<!--<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/A1B2CB?cardType=level-alternate&theme=nightowl&preferLogin=true&Title=37FFF3&Border=DD00B0&Text=7185DD&Ring=4ADDB8">
   <br>
   <!--img src="https://github-readme-stats.vercel.app/api?username=andhikagg&theme=algolia&hide_border=false&include_all_commits=true&count_private=true"-->
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1B2CB&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-  <br>
+<!--- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1B2CB&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact"> -->
+  <br> 
 </p>
 <h2></h2>
 <p align="center">

@@ -14,6 +14,9 @@
   [![Years Badge](https://komarev.com/ghpvc/?username=A1B2CB&style=for-the-badge&color=63a4ff)](https://github.com/komarev/github-profile-views-counter)
 [![Repos](https://img.shields.io/github/repos-personal/A1B2CB?style=for-the-badge&color=63a4ff)](https://github.com/A1B2CB)
 [![Commits](https://img.shields.io/badge/Commits-Monthly-63a4ff?style=for-the-badge)](https://github.com/A1B2CB)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lizettamorimiya)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lizetta-morimiya)
+
   
 </div>
 
